@@ -4,7 +4,7 @@ import axios from 'axios';
 
 
 const API_BASE_URL = 'https://pixabay.com/api/?';
-const API_KEY = '27942412-dca5ba7a5685e348a08d8d646';
+const API_KEY = 'API_KEY_HERE';
 
 const StyledAppContainer = styled.div`
   height: 100vh;
